@@ -1,1 +1,1 @@
-# Car-Repair-Workshop-Database
+A Car Repair Workshop database that streamlines operations, managing everything from customer and vehicle records to service tracking, mechanic assignments, product inventory, and supplier management. This project showcases advanced database design, ensuring seamless workflow integration and comprehensive financial oversight for a thriving repair business.
